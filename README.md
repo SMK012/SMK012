@@ -1,6 +1,4 @@
-### Boas vindas ao meu perfil 💙
-
-Meu nome é Samuel Carvalho
+### Meu nome é Samuel Carvalho
 
 -Eu estou estudando na [Alura](https://www.alura.com.br)
 -Estou me desenvolvimento na linguagem JavaScript
